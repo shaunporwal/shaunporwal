@@ -1,3 +1,1 @@
-## Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunporwal)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shaunporwal&show_icons=true&count_private=true&layout-compact" />
