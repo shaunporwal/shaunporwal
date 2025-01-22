@@ -1,2 +1,2 @@
-<img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=shaunporwal&show_icons=true&count_private=true&layout=compact&title_color=000000&icon_color=24E6FFE2&text_color=000000&bg_color=FFFFFF&ring_color=24E6FFE2" />
-<img width=500 align="center" src="https://streak-stats.demolab.com?user=shaunporwal&fire=24E6FFE2&ring=24E6FFE2&currStreakLabel=24E6FFE2&background=FFFFFF&sideNums=000000&sideLabels=000000&dates=000000" />
+- Coding every day.
+- Trying to build the first python packge for bioequivalence analysis.
