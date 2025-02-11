@@ -2,3 +2,4 @@
 
 - Coding every day.
 - Building the first python packge for bioequivalence analysis.
+- Building an open-source clinical quality assurance initiative.
